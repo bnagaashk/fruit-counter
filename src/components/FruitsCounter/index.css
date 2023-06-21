@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffd569;
+}
+.card {
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+}
+.heading {
+  text-align: center;
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.btn {
+  background-color: #007bff;
+  height: 30px;
+  width: 70px;
+  color: #ffffff;
+  border-width: 0px;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 5px;
+}
+.fruit {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
